@@ -1,2 +1,2 @@
-# my first project
+# My first project
 project about devops
